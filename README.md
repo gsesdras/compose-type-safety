@@ -1,1 +1,1 @@
-# Compose Type Safing
+# Compose Type Safety
